@@ -1,0 +1,47 @@
+body{
+    background-color: cyan;
+}
+h1{
+    color: rgb(41, 12, 209);
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#css{
+    float: right;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    width: 200px;
+}
+
+h2{
+    color: rgb(41, 12, 209);
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    border: 5px solid rgb(3, 34, 136);
+}
+
+p{
+    font-size: 55px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#link{
+    float: left;
+    height: 300px;
+    width: 200px;
+}
+
+#print{
+    float: center;
+    height: 90%;
+    width: 80%;
+    border: darkblue;
+}
+
+mark{
+    color: lightblue;
+    background-color: darkblue;
+}
