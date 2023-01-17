@@ -1,13 +1,19 @@
 body{
-    background-color: cyan;
+    background-color: rgb(160, 160, 163);
+    text-align: justify;
 }
 h1{
-    color: rgb(41, 12, 209);
+    color: rgb(13, 4, 143);
     font-size: 70px;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
 }
 
+img{
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
+}
 #css{
     float: right;
     justify-content: center;
@@ -17,7 +23,7 @@ h1{
 }
 
 h2{
-    color: rgb(41, 12, 209);
+    color: rgb(6, 9, 145);
     font-size: 50px;
     font-family: 'Times New Roman', Times, serif;
     border: 5px solid rgb(3, 34, 136);
@@ -38,7 +44,7 @@ p{
     float: center;
     height: 90%;
     width: 80%;
-    border: darkblue;
+    border: rgb(255, 255, 255);
 }
 
 mark{
